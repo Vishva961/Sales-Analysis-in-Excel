@@ -1,6 +1,5 @@
-![Alt text](Dashboard_Image.png)
 # 📊 Sales Analysis in Excel
-
+![Alt text](Dashboard.png)
 This project presents a **comprehensive sales performance analysis for FNP** using an interactive Excel dashboard. The analysis provides valuable insights into customer behavior, revenue trends, and operational performance, enabling data-driven decision-making.
 
 ### 🔑 Key Highlights
