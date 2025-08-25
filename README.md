@@ -1,6 +1,6 @@
 # 📊 Sales Analysis in Excel
-![Alt text](Dashboard_Image.png)
 This repository contains a sales performance dashboard created for FNP. The dashboard provides key insights into orders, revenue, customer behavior, and product trends to support data-driven decision-making.
+![Alt text](Dashboard_Image.png)
 
 🔑 Key Metrics
 
