@@ -13,8 +13,9 @@ Average Order-Delivery Time: 5.53 days
 Average Customer Spend: ₹3,520.98
 
 📌 Dashboard Visuals & Insights
-1️⃣ Revenue by Occasions
 
+1️⃣ Revenue by Occasions
+![Alt text](Images/Revenue_by_occation.jpg)
 
 This chart shows revenue distribution across occasions such as Anniversary, Birthday, Holi, Raksha Bandhan, and Valentine’s Day.
 
@@ -32,7 +33,7 @@ Colors and Soft Toys drive the most revenue.
 Mugs and Plants contribute the least.
 
 3️⃣ Revenue by Hour (Order Time)
-
+![Alt text](Images/Revenue_by_hour.jpg)
 
 This line chart shows when customers place orders during the day.
 
@@ -41,7 +42,7 @@ Peak ordering hours: 4 AM, 7 AM, and 7–8 PM.
 Suggests customers prefer early morning and evening orders.
 
 4️⃣ Revenue by Months
-
+![Alt text](Images/Revenue_by_months.jpg)
 
 Revenue trend across months.
 
@@ -50,7 +51,7 @@ March & September show revenue peaks.
 Sales dip during April–June and November.
 
 5️⃣ Top 5 Products by Revenue
-
+![Alt text](Images/Top5_products.jpg)
 
 The top-performing products are listed.
 
@@ -59,7 +60,7 @@ Best seller: Dolores Gift & Magnam Set.
 Consistent performers: Deserunt Box, Harum Pack, Quia Gift.
 
 6️⃣ Top 10 Cities by Orders
-
+![Alt text](Images/Top10_cities.jpg)
 
 Breakdown of order volumes across cities.
 
