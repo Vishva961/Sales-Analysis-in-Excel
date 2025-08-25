@@ -23,7 +23,7 @@ Highest revenue: Anniversary & Raksha Bandhan
 Lowest revenue: Diwali
 
 2️⃣ Revenue by Category
-
+![Alt text](Images/Revenue_by_category.jpg)
 
 Revenue segmented by product categories including Cakes, Colors, Mugs, Plants, Soft Toys, and Sweets.
 
